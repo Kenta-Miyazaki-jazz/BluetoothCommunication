@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name" translatable="false">practice</string>
+    <string name="button1">端末検索</string>
+    <string name="button2">端末接続</string>
+    <string name="button3">メッセージ送信</string>
+    <string name="BluetoothOK">Bluetooth対応です</string>
+    <string name="BluetoothNO">Bluetooth非対応です</string>
+    <string name="BluetoothEnable">Bluetooth有効化しました</string>
+    <string name="BluetoothUnenable">Bluetoothが有効化されませんでした</string>
+    <string name="BluetoothSearch">Bluetooth検索中です</string>
+    <string name="BluetoothFound">新しい端末を発見しました</string>
+    <string name="Connected">接続されました</string>
+    <string name="Received">メッセージ受信しました</string>
+    <string name="BluetoothFinish">検索を終了しました</string>
+    <string name="hint">ここにメッセージを入力します</string>
+    <string name="notConnect">端末に接続できませんでした</string>
+</resources>
